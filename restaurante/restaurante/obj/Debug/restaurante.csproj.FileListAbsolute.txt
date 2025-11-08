@@ -1,0 +1,16 @@
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.csproj.AssemblyReference.cache
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormCelebraciones.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormGestionMenus.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormGestionMesas.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormGestionPromociones.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormNuevaReserva.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormPrincipal.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Forms.FormRecordatorios.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.Properties.Resources.resources
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.csproj.GenerateResource.cache
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.csproj.CoreCompileInputs.cache
+C:\3G\MOVISTAR\restaurante\restaurante\bin\Debug\restaurante.exe.config
+C:\3G\MOVISTAR\restaurante\restaurante\bin\Debug\restaurante.exe
+C:\3G\MOVISTAR\restaurante\restaurante\bin\Debug\restaurante.pdb
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.exe
+C:\3G\MOVISTAR\restaurante\restaurante\obj\Debug\restaurante.pdb
